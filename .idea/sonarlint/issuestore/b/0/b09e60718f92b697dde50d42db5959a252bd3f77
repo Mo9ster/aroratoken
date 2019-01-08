@@ -1,0 +1,5 @@
+
+Ysquid:S1854"=Remove this useless assignment to local variable "expiredTs".(ÃúÑ¶ıÿÿÿÿ
+Ssquid:S1854"7Remove this useless assignment to local variable "uid".(ÿÁåÅøÿÿÿÿ
+Dsquid:S1481"(Remove this unused "uid" local variable.(ÿÁåÅøÿÿÿÿ
+Jsquid:S1481".Remove this unused "expiredTs" local variable.(ÃúÑ¶ıÿÿÿÿ
